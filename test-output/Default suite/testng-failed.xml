@@ -3,11 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.restassured.PostCall">
+      <class name="simpletest.SimpleTest">
         <methods>
-          <include name="createCustomerTest"/>
+          <include name="testMethod"/>
+          <include name="testMethod"/>
+          <include name="beforeClass"/>
         </methods>
-      </class> <!-- com.restassured.PostCall -->
+      </class> <!-- simpletest.SimpleTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
