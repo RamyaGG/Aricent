@@ -2,35 +2,35 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="95" started-at="2019-02-07T09:52:29Z" finished-at="2019-02-07T09:52:29Z">
+  <suite name="Default suite" duration-ms="89" started-at="2019-02-07T11:16:07Z" finished-at="2019-02-07T11:16:08Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="95" started-at="2019-02-07T09:52:29Z" finished-at="2019-02-07T09:52:29Z">
+    <test name="Default test" duration-ms="89" started-at="2019-02-07T11:16:07Z" finished-at="2019-02-07T11:16:08Z">
       <class name="simpletest.SimpleTestFactory">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:simpletest.SimpleTestFactory@7d9d1a19]" name="beforeClass" is-config="true" duration-ms="12" started-at="2019-02-07T15:22:29Z" finished-at="2019-02-07T15:22:29Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:simpletest.SimpleTestFactory@3daa422a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-02-07T16:46:07Z" finished-at="2019-02-07T16:46:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="testMethod()[pri:0, instance:simpletest.SimpleTestFactory@4883b407]" name="testMethod" duration-ms="6" started-at="2019-02-07T15:22:29Z" finished-at="2019-02-07T15:22:29Z">
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:simpletest.SimpleTestFactory@39529185]" name="testMethod" duration-ms="15" started-at="2019-02-07T16:46:07Z" finished-at="2019-02-07T16:46:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:simpletest.SimpleTestFactory@7d9d1a19]" name="beforeClass" is-config="true" duration-ms="1" started-at="2019-02-07T15:22:29Z" finished-at="2019-02-07T15:22:29Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:simpletest.SimpleTestFactory@3daa422a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-02-07T16:46:07Z" finished-at="2019-02-07T16:46:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="testMethod()[pri:0, instance:simpletest.SimpleTestFactory@5622fdf]" name="testMethod" duration-ms="8" started-at="2019-02-07T15:22:29Z" finished-at="2019-02-07T15:22:29Z">
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:simpletest.SimpleTestFactory@3daa422a]" name="testMethod" duration-ms="8" started-at="2019-02-07T16:46:07Z" finished-at="2019-02-07T16:46:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:simpletest.SimpleTestFactory@7d9d1a19]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-02-07T15:22:29Z" finished-at="2019-02-07T15:22:29Z">
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:simpletest.SimpleTestFactory@72f926e6]" name="testMethod" duration-ms="0" started-at="2019-02-07T16:46:07Z" finished-at="2019-02-07T16:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:simpletest.SimpleTestFactory@3daa422a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-02-07T16:46:07Z" finished-at="2019-02-07T16:46:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="testMethod()[pri:0, instance:simpletest.SimpleTestFactory@7d9d1a19]" name="testMethod" duration-ms="6" started-at="2019-02-07T15:22:29Z" finished-at="2019-02-07T15:22:29Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testMethod -->
       </class> <!-- simpletest.SimpleTestFactory -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
