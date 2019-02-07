@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Simple Test">
+	<test name="Simple Test Apple">
+
+		<parameter name="parameter" value="Apple" />
+		<classes>
+			<class name="simpletest.SimpleTest"></class>
+		</classes>
+	</test>
+
+
+	<test name="Simple Test Banana">
+
+		<parameter name="parameter" value="Banana" />
+		<classes>
+			<class name="simpletest.SimpleTest"></class>
+		</classes>
+	</test>
+
+
+	<test name="Simple Test Orange">
+
+		<parameter name="parameter" value="Orange" />
+		<classes>
+			<class name="simpletest.SimpleTest"></class>
+		</classes>
+	</test>
+
+</suite>
