@@ -13,6 +13,7 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.testng.annotations.*;
 
+//We should make use of @Factory Annotation In this case
 
 public class SimpleTest
 
